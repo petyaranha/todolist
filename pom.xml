@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.betea</groupId>
 	<artifactId>todolist</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<name>todolist</name>
 	<description>Gerenciador de tarefas</description>
 	<properties>
